@@ -1,19 +1,5 @@
 # Flemming N. Larsen — Biography
 
-## Short (~200 characters)
-
-Principal Software Engineer. Programming since 1984. Lead developer of Robocode since 2006, and creator of Robocode Tank Royale.
-
----
-
-## Medium (~500 characters)
-
-Flemming N. Larsen is a Principal Software Engineer and a formally educated computer scientist (cand.scient.dat, Aalborg University, 2001) with certified IT architect qualifications — and unlike many who carry the architect title, he actually trained for it. He has been programming since 1984, lead developer of Robocode since 2006, and creator of Robocode Tank Royale. He advocates Architecture as Code and Spec-Driven Development through plain-text artefacts in version control, and author of the Book of Robocode.
-
----
-
-## Full
-
 Flemming N. Larsen is a Principal Software Engineer with a focus on Agentic Engineering, Spec-Driven Development, and Architecture as Code. He graduated with a Master's degree in computer science (cand.scient.dat) from Aalborg University in 2001, and has been working professionally ever since. He has been programming since 1984. Over more than two decades his career has spanned embedded systems, telecom middleware, enterprise architecture, and cloud-native backend development — giving him an unusually broad foundation for someone who now works at the architecture and AI layer.
 
 ### Where It Started
