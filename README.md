@@ -1,10 +1,10 @@
 # Flemming N. Larsen — Biography
 
-Flemming N. Larsen is a Principal Software Engineer with a focus on Agentic Engineering, Spec-Driven Development, and Architecture as Code. He graduated with a Master's degree in computer science (cand.scient.dat) from Aalborg University in 2001, and has been working professionally ever since. He has been programming since 1984. Over more than two decades his career has spanned embedded systems, telecom middleware, enterprise architecture, and cloud-native backend development — giving him an unusually broad foundation for someone who now works at the architecture and AI layer.
+Flemming N. Larsen is a Principal Software Engineer with a focus on Agentic Engineering, Spec-Driven Development, and Architecture as Code. He graduated with a Master's degree in computer science (cand.scient.dat) from Aalborg University in 2001, and has been working professionally ever since. He has been programming since 1986. Over more than two decades his career has spanned embedded systems, telecom middleware, enterprise architecture, and cloud-native backend development — giving him an unusually broad foundation for someone who now works at the architecture and AI layer.
 
 ### Where It Started
 
-In 1984, a Danish school introduced a class of fourth-graders to computing via a Butler machine from Regnecentralen — running COMAL with a custom Turtle language built on top of it. Flemming was one of those students. He liked it enough to get an access card so he could use the machine after school, often alone.
+In 1986, a Danish school introduced a class of sixth-graders to computing via a Butler machine from Regnecentralen — running COMAL with a custom Turtle language built on top of it. Flemming was one of those students. He liked it enough to get an access card so he could use the machine after school, often alone.
 
 One day he accidentally interrupted the Turtle program and saw COMAL underneath. He went to the library, read a book on COMAL 80, and wrote a circle routine to extend the teacher's Turtle program. His access card was confiscated. He was ten years old.
 
