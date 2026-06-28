@@ -52,6 +52,8 @@ Steering an AI agent effectively requires more than a prompt. It requires being 
 
 > "The AI already knows everything. The question is: does it know what you care about?"
 
+He wrote this approach down in [*Intent Engineering for Coding Agents*](https://intent-engineering-for-coding-agents.github.io/book/). The book covers spec-driven development, agent instructions, and quality verification in production-grade work.
+
 ### How He Works
 
 There is a consistent thread running from a ten-year-old extending his teacher's Turtle program without permission, to stepping up when Robocode was abandoned, to spending twelve years rebuilding a game engine from scratch because the architecture was wrong: Flemming does not accept the status quo when he can see a better way. He will go far to remove whatever stands in the way of working faster, more freely, and more effectively.
@@ -71,3 +73,4 @@ He has been a recreational runner since 2012, typically running several times a 
 - [Architecture as Code blog](https://architecture-as-code.hashnode.dev/)
 - [Robocode Tank Royale](https://github.com/robocode-dev/tank-royale)
 - [Book of Robocode](https://book.robocode.dev/)
+- [Intent Engineering for Coding Agents](https://intent-engineering-for-coding-agents.github.io/book/)
