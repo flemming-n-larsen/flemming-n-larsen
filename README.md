@@ -67,10 +67,10 @@ He has been a recreational runner since 2012, typically running several times a 
 ---
 
 *Links:*
+- [Intent Engineering for Coding Agents](https://intent-engineering-for-coding-agents.github.io/book/)
 - [Plain Text as Code](https://github.com/Plain-Text-as-Code)
 - [.principles](https://github.com/.principles)
 - [Architecture as Code example](https://github.com/flemming-n-larsen/architecture-as-code-example)
 - [Architecture as Code blog](https://architecture-as-code.hashnode.dev/)
 - [Robocode Tank Royale](https://github.com/robocode-dev/tank-royale)
 - [Book of Robocode](https://book.robocode.dev/)
-- [Intent Engineering for Coding Agents](https://intent-engineering-for-coding-agents.github.io/book/)
